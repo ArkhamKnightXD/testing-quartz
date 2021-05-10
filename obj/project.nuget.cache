@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFrsBCnt5uaQ+Z08BfdTc+N78ywlRru888kHWX2YK5XIcllXg+Hrxxa5/SCk3ssBgOVzn3DdHk27NS/6y8jaqw==",
+  "success": true,
+  "projectFilePath": "C:\\Web Projects\\Testing-Quartz\\Testing-Quartz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\quartz\\3.3.2\\quartz.3.3.2.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo-01\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
